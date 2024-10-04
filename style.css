@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(194, 168, 168);
+    width: 30%;
+    align-items: center;
+    display: inline;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+p{
+    background-color: rgba(73, 50, 1, 0.658);
+    color: rgb(199, 120, 24);
+}
+
+h1 {
+    text-align: center; /* Center the text within the h1 element */
+    color: #580303dc;
+
+}
+
+button {
+    background-color: #ece4c0f3;
+    color: rgb(3, 115, 190);
+    border: radius;
+    padding:  20px;
+    font-size: 15px;
+    cursor: pointer;
+    margin: 20px;
+    
+    
+
+}
+
+button:hover {
+    background-color: #3d3b3b;
+}
+
+/* Center the footer content */
+footer {
+    text-align: center;
+}
